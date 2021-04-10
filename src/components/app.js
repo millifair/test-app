@@ -5,14 +5,14 @@ import './index.scss';
 import Table from'./table';
 
 import {BrowserRouter as Router,  Route, Switch } from 'react-router-dom';
- const App =()=>{
+    const App =()=>{
  
    return (
       <div  className="app">
    
       <AppHeader/>
        
-         
+ 
           <Switch>
           <Route path = '/counter'  component={CounterPage}/>
           <Route path = '/table'  component={TablePage}/>
