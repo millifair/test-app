@@ -1,0 +1,182 @@
+{
+  "menu": [
+    {
+      "title": "Cesar salad",
+      "price": 12,
+      "category": "salads",
+      "id": 1,
+      "count":1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "category": "pizza",
+      "id": 2,
+      "count":1
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "category": "pizza",
+      "id": 3,
+      "count":1
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "category": "salads",
+      "id": 4,
+      "count":1
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "category": "meat",
+      "id": 5,
+      "count":1
+    }
+  ],
+  "cards":[
+    {
+      "title": "Cesar salad",
+      "price": 12,
+      "category": "salads",
+      "id": 1,
+      "count":1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "category": "pizza",
+      "id": 2,
+      "count":1
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "category": "pizza",
+      "id": 3,
+      "count":1
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "category": "salads",
+      "id": 4,
+      "count":1
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "category": "meat",
+      "id": 5,
+      "count":1
+    },
+    {
+      "title": "Cesar salad",
+      "price": 12,
+      "category": "salads",
+      "id": 6,
+      "count":1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "category": "pizza",
+      "id": 7,
+      "count":1
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "category": "pizza",
+      "id": 8,
+      "count":1
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "category": "salads",
+      "id": 9,
+      "count":1
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "category": "meat",
+      "id": 10,
+      "count":1
+    },
+    {
+      "title": "Cesar salad",
+      "price": 12,
+      "category": "salads",
+      "id": 11,
+      "count":1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "category": "pizza",
+      "id": 12,
+      "count":1
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "category": "pizza",
+      "id": 13,
+      "count":1
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "category": "salads",
+      "id": 14,
+      "count":1
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "category": "meat",
+      "id":15,
+      "count":1
+    }, {
+      "title": "Cesar salad",
+      "price": 12,
+      "category": "salads",
+      "id": 16,
+      "count":1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "category": "pizza",
+      "id": 17,
+      "count":1
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "category": "pizza",
+      "id": 18,
+      "count":1
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "category": "salads",
+      "id": 19,
+      "count":1
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "category": "meat",
+      "id": 20,
+      "count":1
+    }
+
+
+  ]
+}
